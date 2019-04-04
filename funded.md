@@ -25,6 +25,10 @@ If a member of ASU funds one of your meals you may not claim your per-diem for t
 
 You do not need to keep any receipts for food. Your per-diem will be granted in full even if you spend less than it. That is if you spend $5 for breakfast you will still receive a $10 reimbursement for breakfast.
 
+## Paying for other people
+
+No. Even if you and your friend are funded you cannot pay for your friend and your friend cannot pay for you.
+
 ## Other expenses
 
 These require pre-approval from Zachary Wimer.
