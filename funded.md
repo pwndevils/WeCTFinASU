@@ -2,8 +2,18 @@
 
 If you are a member of a team ASU is funding, please contact Zachary Wimer at [zwimer@gmail.com](mailto:zwimer@gmail.com?Subject=WeCTFinASU) to be approved for funding *before* booking anything.
 
-# TOC
-TODO
+# Table Of Contents
+1. [Reimbursable](#reimbursable)
+    1. [Transportation](#transportation)
+    1. [Airport Transportation](#airport-transportation)
+    1. [Per Diem](#per-diem)
+	1. [Paying for Others](#paying-for-others)
+	1. [Other Expenses](#other-expenses)
+1. [Reimbursements](#reimbursements)
+	1. [Receipts](#receipts)
+	1. [Process](#process)
+	1. [International Students](#international-students)
+1. [Contact](#contact)
 
 # Reimbursable
 
@@ -25,11 +35,11 @@ If a member of ASU funds one of your meals you may not claim your per-diem for t
 
 You do not need to keep any receipts for food. Your per-diem will be granted in full even if you spend less than it. That is if you spend $5 for breakfast you will still receive a $10 reimbursement for breakfast.
 
-## Paying for other people
+## Paying for Others 
 
 No. Even if you and your friend are funded you cannot pay for your friend and your friend cannot pay for you.
 
-## Other expenses
+## Other Expenses
 
 These require pre-approval from Zachary Wimer.
 
@@ -43,11 +53,11 @@ Please keep *all* receipts for everything you would like reimbursed (receipts ar
 
 During the second day of the workshop, Zachary Wimer will walk everyone through the reimbursement request to make it as painless as possible.
 
-TODO
+TBD - you won't have to worry about this until the end of the workshop.
 
 ## International Students
 
-TODO
+TBD - you won't have to worry about this until the end of the workshop.
 
 # Contact
 Please send any questions to Zachary Wimer at [zwimer@gmail.com](mailto:zwimer@gmail.com?Subject=WeCTFinASU)
